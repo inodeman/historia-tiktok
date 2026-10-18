@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="PARA TI">
+  <rect width="32" height="32" rx="8" fill="#07080d"/>
+  <ellipse cx="11.4" cy="22.4" rx="4.6" ry="3.4" fill="#f3efe6" transform="rotate(-22 11.4 22.4)"/>
+  <rect x="14.7" y="6.6" width="2.4" height="15.6" rx="1.1" fill="#f3efe6"/>
+  <path d="M17.1 6.8c4.2 1.1 7.2 3.6 7.2 6.6 0 .2-2.8-1.5-7.2-1.8V6.8z" fill="#f3efe6"/>
+</svg>
