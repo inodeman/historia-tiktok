@@ -15,3 +15,11 @@ https://www.youtube.com/user/inodeEntertainment
 
 Formato YouTube 16:9. Imagen 3D y narración en español.
 Hechos públicos hasta octubre de 2026.
+
+## Video
+
+Documental completo, 15:10, 1280×720.
+
+[Descargar PARA-TI-historia-de-tiktok.mp4](https://github.com/inodeman/historia-tiktok/releases/download/v1.0/PARA-TI-historia-de-tiktok.mp4)
+
+También en [Releases](https://github.com/inodeman/historia-tiktok/releases/tag/v1.0).
